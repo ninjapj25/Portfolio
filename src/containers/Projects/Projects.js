@@ -13,21 +13,21 @@ import React from "react";
 export default function Projects() {
     const projects = [
         {
-            image: "project-1.png",
+            image: "https://i.imgur.com/vKTvvek.png",
             text: "Recipe App",
             textBody:
                 "This is a Web App to search for your food recipe. Powered by https://www.edamam.com/",
             link: "https://ninjapj25.github.io/Search-Recipe-App",
         },
         {
-            image: "project-2.png",
+            image: "https://i.imgur.com/vyjCjnw.png",
             text: "Typing Game",
             textBody:
                 "This is a very simple typing game. Remember to type the first letter to play :D",
             link: "https://ninjapj25.github.io/Typing-Game-App/",
         },
         {
-            image: "project-3.png",
+            image: "https://i.imgur.com/ZylIvf6.png",
             text: "Weather App",
             textBody:
                 "This is a Web App to search for the weather of a certain city, powered by https://openweathermap.org/",
